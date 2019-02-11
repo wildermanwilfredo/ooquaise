@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://giewabae.value-from-data.com/sitemap.xml
